@@ -1,0 +1,8 @@
+[package]
+name = "template"
+version = "0.1.0"
+edition = "2021"
+authors = ["Enoch Jung (@enochjung)"]
+
+[dependencies]
+core = { path = "../core" }

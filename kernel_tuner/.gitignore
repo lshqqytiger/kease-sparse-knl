@@ -1,0 +1,3 @@
+kernels/builds
+kernels/log
+!kernels/log/get_max.sh
