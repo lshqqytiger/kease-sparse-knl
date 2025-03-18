@@ -1,6 +1,6 @@
-# Auto-tuned SpMV / SpTRSV / SymGS kernels for Intel KNL Processors
+# Auto-tuner of SpMV / SpTRSV / SymGS for Intel KNL Processors
 
-Auto-tuned kernels for Intel® Xeon Phi™ Processor 7250.
+The kernel generator and auto-tuner for Intel® Xeon Phi™ Processor 7250.
 
 - Sparse Matrix-Vector Multiplication
 - Sparse Triangular Solve
